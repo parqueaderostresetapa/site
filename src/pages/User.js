@@ -135,7 +135,7 @@ export default function User() {
       <Container>
         <Stack direction="row" alignItems="center" justifyContent="space-between" mb={5}>
           <Typography variant="h4" gutterBottom>
-            User
+            Usuario
           </Typography>
           <Button
             variant="contained"
@@ -143,7 +143,7 @@ export default function User() {
             to="#"
             startIcon={<Iconify icon="eva:plus-fill" />}
           >
-            New User
+            Nuevo Usuario
           </Button>
         </Stack>
 
